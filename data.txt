@@ -1,0 +1,36 @@
+Artikel Nr.;Format;Text
+99533588;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+89442133;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+78934457;*;************************************
+;/;Kommission Firma Beispiel!
+;/;Ware mit Zeichnung ausliefern
+;/;************************************
+63812112;*;************************************
+;/;Kommission Firma Beispiel!
+;/;Ware mit Zeichnung ausliefern
+;/;************************************
+23123177;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+77888934;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+45458834;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+63458978;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+73457178;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+12345611;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+48325711;*;************************************
+;/;Kommission Firma Beispiel!
+;/;Ware mit Zeichnung ausliefern
+;/;************************************
+31189512;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+22912118;*;Ware muss mit Zeichnung ausgeliefert werden!
+;/;Kommission Firma Beispiel!
+;/;************************************
+;/;Ware mit Zeichnung ausliefern
+;/;************************************
